@@ -1,3 +1,1 @@
-# Pelota Invernal RD V3
-
-Sube `index.html` a la raíz de GitHub Pages. Demo no oficial, necesita conexión para cargar Three.js.
+Pelota Invernal RD, demo móvil. Subir index.html a la raíz del repositorio público en GitHub Pages. Requiere internet para el render 3D; si WebGL falla, activa campo 2D compatible. No es una app nativa ni equivale gráficamente a MLB Perfect Inning 26.
